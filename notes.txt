@@ -1,0 +1,5 @@
+https://github.com/gperaza/ISLR-Python-Labs/blob/master/Ch3-Linear_Regression.ipynb
+https://github.com/collinprather/ISLR-Python/blob/master/Chapter%205%20Resampling%20Methods.ipynb
+https://github.com/jcrouser/islr-python
+
+https://github.com/0liu/ISLR
