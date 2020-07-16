@@ -1,5 +1,11 @@
-https://github.com/gperaza/ISLR-Python-Labs/blob/master/Ch3-Linear_Regression.ipynb
+https://github.com/gperaza/ISLR-Python-Labs
+    - ch 2-6, 10 and 11
+
 https://github.com/collinprather/ISLR-Python/blob/master/Chapter%205%20Resampling%20Methods.ipynb
+    - stops after ch 8
+
 https://github.com/jcrouser/islr-python
+    - no ch 6
 
 https://github.com/0liu/ISLR
+    - stops after ch 10
