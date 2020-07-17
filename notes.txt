@@ -9,3 +9,5 @@ https://github.com/jcrouser/islr-python
 
 https://github.com/0liu/ISLR
     - stops after ch 10
+    
+https://github.com/a-martyn/ISL-python/tree/master/Notebooks
